@@ -1,0 +1,81 @@
+baseURL = "https://example.com"
+title = "Csaba Pusztai"
+copyright = "Copyright © 2020, OnBased Group Kft. all rights reserved."
+paginate = 2
+languageCode = "en"
+DefaultContentLanguage = "en"
+enableInlineShortcodes = true
+footnoteReturnLinkContents = "^"
+googleAnalytics = "UA-XXXX"
+DisqusShortname = ""
+theme = "hugo-theme-chunky-poster"
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 10
+  [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/"
+    weight = 12
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 0
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+author = "authors"
+
+[params]
+  author = "Csaba Pusztai"
+  description = "This my awesome motto!"
+  homepageImage = "/images/csabi.png"
+  share = true
+  showLanguageSwitcher = false
+
+  # Custom CSS and JS. Relative to /static/css and /static/js respectively.
+  customCSS = []
+  customJS = []
+
+  [params.social]
+    rss = true
+    email = "csabi@gmail.com"
+    facebook = "https://www.facebook.com/csaba.pusztai.10"
+    twitter = "https://twitter.com/csaba_pusztai"
+#    linkedin = "https://linkedin.com"
+#    stack-overflow = "https://stackoverflow.com"
+    instagram = "https://www.instagram.com/csabi_pusztai/"
+#    github = "https://github.com"
+#    weibo = "https://www.weibo.com"
+#    medium = "https://medium.com"
+#    pinterest = "https://pinterest.com"
+#    reddit = "https://reddit.com"
+#    gitlab = "https://gitlab.com"
+#    mastodon = "https://mastodon.social"
+#    keybase = "https://keybase.io/"
+
+  [params.prismJS]
+    enable = true
+    theme = ""
+
+  [params.commento]
+    enable = true
+    url = "https://commento.io"
+
+[markup]
+  [markup.highlight]
+    codeFences = false
+
+[services]
+  [services.instagram]
+    disableInlineCSS = true
+
+  [services.twitter]
+    disableInlineCSS = true
