@@ -2,21 +2,27 @@
 <main class="homepage container py-6">
     <!-- Hero -->
     <div class="hero row">
-        <div class="col position-relative py-lg-7{{ if not .Site.Params.homepageImage }} py-7{{ else }} pb-5{{ end }}">
+        <div class="col-md-8 col-12 position-relative py-lg-7{{ if not .Site.Params.homepageImage }} py-7{{ else }} pb-5{{ end }}">
             {{- with .Site.Params.homepageImage -}}
-                <div class="homepage-image">
-                    <img src="{{ . | relURL }}" class="img-fluid">
+                <div class="center">
+                    <img src="{{ . | relURL }}" height="800" class="shadow-sm mb-5 bg-white img-fluid rounded">
                 </div>
             {{- end -}}
-
-            <h1 class="display-4">{{ .Site.Title }}</h1>
-            {{- with .Site.Params.description -}}
+  </div>
+  <div class="col-md-4 align-middle position-relative py-lg-7 col-12">
+       
+         <!--   <h1 class="display-4">{{ .Site.Title }}</h1>  -->
+           {{- with .Site.Params.description -}}
                 <h3 class="font-weight-normal">{{ . | safeHTML }}</h3>
             {{- end -}}
-        </div>
-    </div>
 
-    <!-- Latest article -->
+             {{- with .Site.Params.text -}}
+                <p class="font-weight-normal">{{ . | safeHTML }}</p>
+            {{- end -}}
+       
+  </div>
+  <!--
+    < !-- Latest article
     {{- range first 1 (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) -}}
         {{ $page := . }}
         <div class="latest row py-lg-5">
@@ -25,7 +31,7 @@
                     {{- $images := . -}}
                     {{- with $page.Site.GetPage "section" "images" -}}
                         {{- with .Resources.GetMatch (strings.TrimPrefix "/images/" (index $images 0)) -}}
-                            {{- $image := .Resize "700x450" -}}
+                            {{- $image := .Fill "700x450" -}}
                             <a href="{{ $page.RelPermalink }}" class="d-block">
                                 <img data-src="{{ $image.RelPermalink }}" class="img-fluid rounded" alt="{{ $page.Title }}">
                             </a>
@@ -44,7 +50,7 @@
         </div>
     {{- end -}}
 
-    <!-- Articles -->
+    < !-- Articles 
     <div class="articles row row-cols-1 row-cols-lg-3">
         {{ range after 1 (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) }}
             <div class="col mb-3">
@@ -52,5 +58,9 @@
             </div>
         {{ end }}
     </div>
+    -->
+    </div>
+    
+    
 </main>
 {{ end }}

@@ -17,15 +17,31 @@ theme = "hugo-theme-chunky-poster"
     url = "/"
     weight = 10
   [[menu.main]]
-    identifier = "projects"
-    name = "Projects"
-    url = "/"
+    identifier = "bio"
+    name = "Bio"
+    url = "/about"
     weight = 12
   [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about/"
+    identifier = "music"
+    name = "Music"
+    url = "/music/"
     weight = 0
+[[menu.main]]
+    identifier = "gear"
+    name = "Gear"
+    url = "/gear/"
+    weight = 0
+[[menu.main]]
+    identifier = "media"
+    name = "Media"
+    url = "/media/"
+    weight = 0
+[[menu.main]]
+    identifier = "schedule"
+    name = "Schedule"
+    url = "/schedule/"
+    weight = 0
+
 
 [taxonomies]
 category = "categories"
@@ -36,7 +52,8 @@ author = "authors"
 [params]
   author = "Csaba Pusztai"
   description = "This my awesome motto!"
-  homepageImage = "/images/csabi.png"
+  text = "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book."
+  homepageImage = "/images/csabi.jpg"
   share = true
   showLanguageSwitcher = false
 
