@@ -1,17 +1,31 @@
 +++
-title = "About"
+title = "Csaba Pusztai"
 description = "Hugo, the world’s fastest framework for building websites"
 date = "2019-02-28"
 aliases = ["about-us","about-hugo","contact"]
 author = "Hugo Authors"
 +++
 
-Csaba Pusztai was born in 1975 in Cegléd. He completed his primary school education in Miklós Gaál Gyulai Elementary School in Abony, in his musical class. At the same time he studied classical percussion at the local music school. His teachers were László Csizmadia, Elemér Holló and Katalin Veze. 
 
-He obtained a certificate of graduation in 1993 at the Arany János Grammar School in Nagykőrös. During his high school, Zoltán Köte went on training at the Nagykőrös Music School. Between 1994 and 1996 he studied under the direction of Zsuzsa Angyal at the Bartók Béla Music Academy in Miskolc. This time, his interest in classical music was increasingly directed towards jazz, contemporary and world music, he moved to Budapest and studied at the Music Studio of Hungarian Musicians and Dance Artists at Kőbánya Music Studio, Vilmos Jávor, Gábor Szendi and Csaba Tobola. 
+##### Drummer, Percussionist, Teacher, Sports Educator
 
-In 2000 he was admitted to jazz drum at the Franz Liszt Academy of Music in Budapest where his teachers were Imre Kőszegi, Iván Nesztor and Béla Zsoldos, currently a third year student. In 2002, by the Hungarian Radio, in the jazzdob talent research contest organized by Gyula Kovács, 2nd place was achieved. Nowadays he works as a jazzdob and Latin percussion player, but he is also a guest at classical and contemporary music events. He was a member of the Budapest Jazz Orchestra, Shreck Ferenc trio and Zoltán Zana, a member of the Quartet of Péter Aladár in 2001-2002, but he also worked as a session musician. He has worked with Cotton Club Singers, Cappuccino & Cream, and the UckMuckFunck Orchestra. 
+Csaba has studied music since the age of five, and started drumming at the age of seven. In the past forty years he has played in highly diverse musical environments: as a jazz drummer, Latin percussionist and session musician in classical concerts, contemporary and crossover productions, pop and theatre. Furthermore, he performs regularly with house bands of musical TV shows, talent contests and talk shows. For eleven years, he was the member of the house band of one of Hungary’s most popular late night shows, which drew millions of viewers.
 
-In 2001, in the Hungarian premiere of Resurrection, directed by Gergely Keselyák, and in 2002 at the Miskolc Opera Festival with György Vukán. As a percussion player, the Ricardo Salsa Club, the Aquarela do Brasil band and Péter Kuzbelt, a permanent member of the Showder Band band, is a folk band of Sandor Fábry’s evening talk show. He worked with Eszter Horgas, Andrea Malek, Cool Miners and Tam Tam Tamper Squadron. In January 2003, he had a solo concert at the Bartók Radio, Classical and Jazz series. Below are the names of outstanding foreign and domestic artists, without the completeness they have worked with so far. Butch Lacy, Ray Anderson, Erich Kleinschuster, Kyle Gregory, Georgio Gaslini, Péter Eötvös, László Kovács, Tony Lakatos, Ferenc Snétberger, Mihály Borbély, Attila László, László Dés, Béla Lattmann, Kornél Horváth, Aladár Pege, Zsatyi László Studniczky, Makovics Dénes, Gábor Presser, Rudolf Tomsits, Kornél Fekete-Kovács, Elemér Balázs, Gergő Borlai, Gyula Csepregi, György Vukán, Horváth Charlie, Kati Bontovis, Bea Tisza, Ferenc Shreck, Kálmán Oláh, János Nagy, Gábor Juhász.
+Next to being a musician, Csaba is also a teacher, having received his Teacher’s Diploma in Jazz from the prestigious Franz Liszt Academy of Music, Budapest. He worked as a teacher at the Vienna Conservatory, Budapest, and also at the Jazz Drum faculty of Béni Egressy High School of Music (where he taught for twenty years). Currently he works as drum and percussion teacher at the Pálmai Drum Academy, Budapest. 
+
+Csaba is the member of several ongoing musical productions. His current bands include: 
+- **Lucian Nagy & Balkumba Tribe** (drums-percussion): an international group, with members from the UK, France, Italy and Romania - and Csaba, coming from Hungary.
+- **Budapest Voices** (a capella + drums and multi-percussion): an unconventional vocal production, which rethinks songs to twelve voices and drums and percussion.
+- **Z-Drums percussion group** (drums and percussion): this percussion group performs solo concerts as well as also being featured as guest on concert shows of well-known Hungarian bands, and festivals.
+- **Orsi Kozma Quartet** (jazz) - drums
+- **Szandra Szőke Quintet** (jazz) - drums
+- **Eszter Horgas & the Class Jazz Band** – percussion
+- **Havasi Balázs Symphonic** – percussion etc.
+
+During Csaba’s career he has had the privilege to play alongside the following artists: **Peter Erskine, Dave Liebman, Victor Bailey, Andrea Bocelli, George Duke, Christian McBride, Kenny Werner, Patrick Williams, Vince Mendoza, Paul De Castro, Munyungo Jackson, Johann Berby, Lucian Nagy, Balázs Havasi, Vince May, Tom Scott, Eddie Daniels, Johnny Griffin, Lee Harper, Ed Neumeister, Fritz Pauer, Tony Lakatos, José Cura** and several others.
+
+So far Csaba has been featured on more than fifty albums.
+
+Next to music he also practices and teaches martial arts, gaining a degree as Kung Fu sports coach at the Semmelweis University (Physical Education Department), Budapest. He currently teaches in Budapest and Tatabánya.
 
 
